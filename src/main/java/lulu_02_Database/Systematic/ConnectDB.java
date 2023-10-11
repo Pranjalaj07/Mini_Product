@@ -8,7 +8,7 @@ package lulu_02_Database.Systematic;
 
 		//Logic for connections to be ready and available
 
-		//username, password, url for third party tool
+		//username, passwor, url for third party tool
 
 		static Connection connection;
 
