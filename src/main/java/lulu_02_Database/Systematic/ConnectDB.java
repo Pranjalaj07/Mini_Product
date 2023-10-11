@@ -18,9 +18,9 @@ package lulu_02_Database.Systematic;
 
 				 Class.forName("com.mysql.cj.jdbc.Driver");//drive support sets up
 
-		         connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/product",
+		         connection = DriverManager.getConnection("path",
 
-		            "root", "Pranj@8105153699");
+		            "root", "");
 
 			}
 
